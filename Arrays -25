@@ -1,0 +1,29 @@
+Certainly! Here are 25 of the most commonly asked array interview questions:
+
+1. **Find the missing number in an array of size n containing numbers from 1 to n+1.**
+2. **Find the duplicate number in an array containing n+1 integers where each integer is between 1 and n.**
+3. **Merge two sorted arrays.**
+4. **Find the maximum subarray sum (Kadane's Algorithm).**
+5. **Rotate an array by k positions.**
+6. **Rearrange an array such that positive and negative numbers alternate, maintaining their relative order.**
+7. **Find the intersection of two arrays.**
+8. **Find the union of two arrays.**
+9. **Find the first repeating element in an array.**
+10. **Find the first non-repeating element in an array.**
+11. **Find the majority element (element that appears more than n/2 times).**
+12. **Find the median of two sorted arrays.**
+13. **Find the kth largest element in an array.**
+14. **Find the smallest subarray with a sum greater than a given value.**
+15. **Find all pairs in an array that sum up to a specific target.**
+16. **Move all zeroes to the end of the array.**
+17. **Find the longest consecutive sequence in an array.**
+18. **Implement an algorithm to perform binary search in a sorted array.**
+19. **Find the maximum product of two integers in an array.**
+20. **Determine if a given array is a subset of another array.**
+21. **Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).**
+22. **Find the next permutation of an array.**
+23. **Find the subarray with the maximum sum that has at least k elements.**
+24. **Find the equilibrium index of an array (index where the sum of elements on the left is equal to the sum on the right).**
+25. **Find the maximum sum of a subarray with the constraint that no two elements are adjacent.**
+
+These questions are popular because they test a variety of important skills, including understanding of array data structures, algorithm design, problem-solving, and coding efficiency.
