@@ -26,4 +26,81 @@ Certainly! Here are 25 of the most commonly asked array interview questions:
 24. **Find the equilibrium index of an array (index where the sum of elements on the left is equal to the sum on the right).**
 25. **Find the maximum sum of a subarray with the constraint that no two elements are adjacent.**
 
+
+
+Array Interview Questions:
+Find the maximum product subarray.
+Find the subarray with the maximum sum (Kadane's Algorithm).
+Merge two sorted arrays.
+Find the intersection of two arrays.
+Find the union of two arrays.
+Rotate an array by k positions.
+Find the first missing positive integer.
+Find the duplicate number in an array of integers.
+Find the majority element.
+Find the kth largest/smallest element in an array.
+Find the longest consecutive sequence.
+Find all pairs with a given sum in an unsorted array.
+Move all zeroes to the end of an array.
+Find the minimum in a rotated sorted array.
+Find the repeating and missing elements.
+Find the maximum sum of i*arr[i] for all rotations of a given array.
+Rearrange the array in alternating positive and negative items.
+Find the median of two sorted arrays.
+Find the common elements in three sorted arrays.
+Find the largest subarray with equal number of 0s and 1s.
+Find the maximum length of subarray with sum 0.
+Implement the merge interval problem.
+Find the minimum number of jumps to reach the end of an array.
+Find the largest rectangular area in a histogram.
+Find the longest subarray with at most two distinct elements.
+Find the smallest subarray with a sum greater than a given value.
+Find the maximum difference between two elements such that larger element appears after the smaller one.
+Rearrange array such that arr[i] becomes arr[arr[i]] with O(1) extra space.
+Find the minimum distance between two numbers in an array.
+Check if an array contains a subarray with sum 0.
+
+
+
+String Interview Questions:
+
+
+
+Check if two strings are anagrams.
+Find the first non-repeating character in a string.
+Reverse words in a given string.
+Check if a string is a palindrome.
+Find the longest palindromic substring.
+Implement a function to perform basic string compression.
+Find all permutations of a given string.
+Check if a string contains only digits.
+Find the longest common prefix among an array of strings.
+Implement wildcard pattern matching.
+Implement regular expression matching.
+Convert a string to an integer (atoi).
+Count and say sequence.
+Find the longest substring without repeating characters.
+Group anagrams from a list of strings.
+Implement strstr() (substring search).
+Count the number of substrings with exactly k distinct characters.
+Check if a string is a valid shuffle of two other strings.
+Minimum number of swaps to make a string palindrome.
+Find the smallest window in a string containing all characters of another string.
+Implement the KMP (Knuth-Morris-Pratt) algorithm.
+Find the edit distance between two strings.
+Check if a string is a rotation of another string.
+Count the number of times a pattern appears in a text.
+Check if a string has all unique characters.
+Find the longest repeated substring.
+Convert a string from one case to another.
+Find the number of palindromic substrings in a string.
+Find the length of the shortest common supersequence.
+Remove all adjacent duplicates in a string.
+
+
+
+
+
+
+
 These questions are popular because they test a variety of important skills, including understanding of array data structures, algorithm design, problem-solving, and coding efficiency.
